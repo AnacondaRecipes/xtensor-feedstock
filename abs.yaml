@@ -1,6 +1,2 @@
-channels:
-  - https://staging.continuum.io/prefect/fs/xtl-feedstock/pr1/518ad4c
-  - https://staging.continuum.io/prefect/fs/xsimd-feedstock/pr8/332ca41
-
 upload_channels:
   - sfe1ed40
